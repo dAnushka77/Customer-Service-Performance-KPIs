@@ -5,12 +5,12 @@ Project: Customer Service Performance Dashboard Using KPIs
 Project Description: Create a dashboard to track and analyze customer service performance for a fictional company (or real-world data if available). This project will demonstrate your ability to define relevant KPIs, collect and process data, and use data visualization tools to provide actionable insights for improving customer service operations.
 
 
-1. Project Objective:
+# 1. Project Objective:
    
 The goal of this project is to design a dashboard that tracks critical KPIs for a customer service department, identifies areas for improvement, and presents data insights to enhance customer satisfaction and operational efficiency.
 
 
-3. Key Performance Indicators (KPIs):
+# 2. Key Performance Indicators (KPIs):
 
 You will track the following KPIs to measure the performance of the customer service department:
 
@@ -32,7 +32,7 @@ Escalation Rate: Percentage of cases that are escalated to higher levels of supp
 Agent Utilization Rate: A measure of how effectively customer service agents are using their time.
 
 
-3. Data Collection:
+# 3. Data Collection:
 
 You can create synthetic data or use real-world datasets from sources like Kaggle or your previous experiences. The data should include:
 
@@ -42,7 +42,7 @@ Ticket IDs, timestamps (open and closed), customer satisfaction ratings, agent r
 If using real-world data is an option, try using publicly available customer service datasets or simulate customer interactions.
 
 
-4. Tools & Technologies:
+# 4. Tools & Technologies:
 
 Python/Pandas: For data cleaning, processing, and analysis.
 
@@ -52,7 +52,7 @@ Power BI/Tableau/Excel: To create interactive dashboards that visualize KPIs.
 
 DAX/Power Query: To manipulate and calculate KPIs within Power BI.
 
-5. Methodology:
+# 5. Methodology:
 
 Data Preparation:
 
@@ -80,7 +80,7 @@ NPS = % Promoters - % Detractors
 AHT: Calculate the total handling time and divide it by the total number of resolved tickets.
 
 
-6. Dashboard Creation:
+# 6. Dashboard Creation:
 
 Dashboard Layout:
 
@@ -98,7 +98,7 @@ Heatmaps: Show performance by agent or time of day.
 
 Drill-Down Functionality: Allow users to drill into specific categories (e.g., agent performance, ticket type).
 
-7. Analysis and Recommendations:
+# 7. Analysis and Recommendations:
 
 Perform analysis on the KPIs to identify bottlenecks or areas where performance is below target.
 
@@ -106,7 +106,7 @@ For example, if the First Contact Resolution Rate is low, suggest training progr
 
 If Average Handling Time is high, propose process improvements or automation to assist agents.
 
-8. Project Deliverables:
+# 8. Project Deliverables:
 
 Dashboard: A fully interactive dashboard with all KPIs displayed.
 
