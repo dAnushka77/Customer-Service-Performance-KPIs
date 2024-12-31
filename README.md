@@ -17,8 +17,6 @@ A data-driven project to track and analyze the performance of a customer service
 - [Analysis and Recommendations](#analysis-and-recommendations)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
