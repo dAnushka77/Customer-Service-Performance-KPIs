@@ -119,7 +119,7 @@ Insights based on KPI analysis to optimize operations:
 
 ## Usage
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/yourusername/customer-service-kpi-dashboard.git
    cd customer-service-kpi-dashboard
